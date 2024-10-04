@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: 'olá sou o Daniel, GESTOR e programador de sistemas informáticos.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Tenho 18 anos, sou de Famalicão e neste momento estudo na OFICINA - Escola
+      Profissional no curso de Gestão e Programação de Sistemas Informáticos
+      (GPSI) e aqui está um pouco dos meus trabalhos.
     styles:
       self:
         height: auto
