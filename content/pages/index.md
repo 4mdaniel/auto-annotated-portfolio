@@ -124,12 +124,7 @@ sections:
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: logo five
-        caption: Caption of the image
-        elementId: ''
+    images: []
     colors: colors-a
     spacing: 16
     columns: 5
