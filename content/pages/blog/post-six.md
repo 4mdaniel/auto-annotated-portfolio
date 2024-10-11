@@ -2,7 +2,7 @@
 type: PostLayout
 title: Formação em Contexto de Trabalho 2º ano
 colors: colors-a
-date: '2023-12-11'
+date: '2023-08-11'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
