@@ -20,7 +20,7 @@
         "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "",
             "phoneNumber": "+351 911 559 492",
             "phoneAltText": "My phone number",
             "email": "a14345@oficina.pt",
