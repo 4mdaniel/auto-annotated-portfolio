@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "Sharing my wisdom with the world \U0001F30E"
+title: FUNCIONÁRIO EM EMPRESA DE LAVAGENS (LEC)
 colors: colors-a
 date: '2023-08-01'
 author: content/data/team/doris-soto.json
