@@ -126,11 +126,6 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: logo four
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
         url: /images/logo5.svg
         altText: logo five
         caption: Caption of the image
