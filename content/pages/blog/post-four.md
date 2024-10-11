@@ -4,7 +4,10 @@ title: FUNCIONÁRIO EM EMPRESA DE LAVAGENS (LEC)
 colors: colors-a
 date: '2023-08-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Desenvolvi habilidades essenciais em trabalho de equipe durante o meu ano de
+  experiência na Lava em Casa, onde contribuí para melhora da empresa e
+  aprimorei minha capacidade de comunicação.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
