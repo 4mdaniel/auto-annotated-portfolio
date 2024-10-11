@@ -121,29 +121,4 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images: []
-    colors: colors-a
-    spacing: 16
-    columns: 5
-    aspectRatio: '16:9'
-    showCaption: true
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
 ---
