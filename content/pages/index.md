@@ -103,7 +103,7 @@ sections:
         label: Manutenção de aplicações informáticas
         url: ''
       - type: Label
-        label: Next.js
+        label: Desenvolvimento web
         url: ''
       - type: Label
         label: Netlify
