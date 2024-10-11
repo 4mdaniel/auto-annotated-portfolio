@@ -129,7 +129,8 @@ sections:
       - type: Button
         label: VER TRABALHOS
         altText: ''
-        url: /
+        url: >-
+          https://sites.google.com/oficina.pt/1i-14345-danielhenriques-22-23/home
         showIcon: true
         icon: arrowRight
         iconPosition: right
