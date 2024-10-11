@@ -90,7 +90,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: LabelsSection
-    title: Skills
+    title: Competências
     subtitle: The section subtitle
     items:
       - type: Label
