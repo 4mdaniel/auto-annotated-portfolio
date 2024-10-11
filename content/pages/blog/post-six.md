@@ -4,7 +4,10 @@ title: Formação em Contexto de Trabalho 2º ano
 colors: colors-a
 date: '2023-04-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Realizei uma formação em contexto de trabalho de um mês na CadSolid, onde
+  adquiri conhecimentos práticos em tecnologias de software e desenvolvi
+  habilidades em design, trabalhando em um ambiente dinâmico e colaborativo.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
