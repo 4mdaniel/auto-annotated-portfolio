@@ -21,7 +21,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+351 911 559 492",
             "phoneAltText": "My phone number",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
