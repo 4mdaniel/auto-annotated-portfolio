@@ -106,9 +106,6 @@ sections:
         label: Desenvolvimento web
         url: ''
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
       - type: Label
