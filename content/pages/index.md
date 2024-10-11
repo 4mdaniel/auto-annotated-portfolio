@@ -100,7 +100,7 @@ sections:
         label: Software
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Manutenção de aplicações informáticas
         url: ''
       - type: Label
         label: Next.js
