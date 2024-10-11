@@ -123,9 +123,8 @@ sections:
         textAlign: center
   - type: CtaSection
     title: Trabalhos
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Consulte o trabalho elaborado.
     actions:
       - type: Button
         label: Try it now
