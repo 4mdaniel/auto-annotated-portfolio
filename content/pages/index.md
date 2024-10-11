@@ -97,7 +97,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: React
+        label: Software
         url: ''
       - type: Label
         label: Microsoft Office
