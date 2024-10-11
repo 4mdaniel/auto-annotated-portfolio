@@ -47,7 +47,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_7625.jpg
+      url: /images/Design sem nome.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
