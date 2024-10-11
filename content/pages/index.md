@@ -127,7 +127,7 @@ sections:
       Consulte o trabalho elaborado.
     actions:
       - type: Button
-        label: Try it now
+        label: VER TRABALHOS
         altText: ''
         url: /
         showIcon: true
