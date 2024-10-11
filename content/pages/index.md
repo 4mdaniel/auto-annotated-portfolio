@@ -105,9 +105,6 @@ sections:
       - type: Label
         label: Desenvolvimento web
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
